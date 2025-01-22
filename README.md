@@ -1,4 +1,4 @@
-# Football Statistics Analysis with API-Football
+# Football Statistics Analysis
 
 ## Project Overview
 
